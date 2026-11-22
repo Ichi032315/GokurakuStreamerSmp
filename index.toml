@@ -497,11 +497,6 @@ hash = "696fb13b72e703dd49694b01df10dba5343c46396c818ab856a34b1ff06288b5"
 metafile = true
 
 [[files]]
-file = "mods/midnightlib-neoforge-1.10.0_1.21.1.pw.toml"
-hash = "74cde9d3d08dfc3069609c1dfcf74b8ef7a5ee16f860f2466d957e52ceb5fb86"
-metafile = true
-
-[[files]]
 file = "mods/MinecraftCapes_NeoForge_1.21.1-1.1.0.pw.toml"
 hash = "579f58e819d976ac19838dea892fd24ef91fc513de23d8003e6f6328d3d2cb57"
 metafile = true
@@ -608,11 +603,6 @@ metafile = true
 [[files]]
 file = "mods/uranus-2.4.1-1.21.1-neoforge.pw.toml"
 hash = "7987adea72c1c6c3265dc94314b83c5f00ebf76a35eb5ce350d0865ad7300385"
-metafile = true
-
-[[files]]
-file = "mods/visualoverhaul-neoforge-5.2.1.pw.toml"
-hash = "aa7457306ae314335642c0622d87dc01ba587ed263cacba8e403e7cd22e7a462"
 metafile = true
 
 [[files]]

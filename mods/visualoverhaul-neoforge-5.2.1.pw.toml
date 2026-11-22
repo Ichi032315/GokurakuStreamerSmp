@@ -1,6 +1,6 @@
 name = "Visual Overhaul"
 filename = "visualoverhaul-neoforge-5.2.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/YQnwl5Vv/versions/TMOdQHDi/visualoverhaul-neoforge-5.2.1.jar"

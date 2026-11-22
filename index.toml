@@ -105,10 +105,6 @@ file = "config/dungeon_crawl.toml"
 hash = "75c2c57214717c4a4c903df30780999571f82dd0ac63a43f31e3407d1cc7cbd4"
 
 [[files]]
-file = "config/embeddium-mixins.properties"
-hash = "708750dc530ed52462185c7b1421291db8b292a350e164daaad437ba6f4fe4ef"
-
-[[files]]
 file = "config/extrasounds.json"
 hash = "764b1720967b62495fb809a1c7b050e07247cb32af2c15ab9efcb35add1e9f50"
 
@@ -405,11 +401,6 @@ hash = "e876397f37e102b7da6f3009727f1b043e1159cf4a70d4f5ea9c2ee756bcfaf5"
 metafile = true
 
 [[files]]
-file = "mods/embeddium-1.0.15_mc1.21.1.pw.toml"
-hash = "323ea6613bbc7c5e9f5b8a4ee35be04f0a31922825dc84d2ca30f51bac7a9f81"
-metafile = true
-
-[[files]]
 file = "mods/epicpaladins-1.4.3-1.21.1.jar"
 hash = "3516154552f20c560dcda2e2c38df9774d9165b82289921c285869c715bc24ac"
 
@@ -454,17 +445,22 @@ metafile = true
 
 [[files]]
 file = "mods/immersivearmorhud-neoforge-1.0.1-1.21.1.pw.toml"
-hash = "a0bf42a806ddc710e9c6e4bd98d2e792a362f16be66cc665026fed9e934c505e"
+hash = "cb3ebba2838627af41aa64323a2c5ce6981e4f6960f605ab77c4b8366ca6843b"
 metafile = true
 
 [[files]]
 file = "mods/immersivehotbar-1.3.0-neoforge-1.21-1.21.1.pw.toml"
-hash = "7c681e177a6695171c3ceb3b02c67fde0d9ca389c3bbe84239598aee6d624306"
+hash = "4d16df7da02e1297f46d498c11b77fae65b7d973cc9a1bb7fe6c87e1c42f7e98"
 metafile = true
 
 [[files]]
 file = "mods/ImmersiveUI-NEOFORGE-0.3.3_1.21.1.pw.toml"
-hash = "0faf5ef4c4aa059a39c9f5216763e7c24853467c3707f7423ab456474363b6a5"
+hash = "4e487f83fcc3e9466d7aa374621948c3541014c07e3d611b7a986504c78d49f6"
+metafile = true
+
+[[files]]
+file = "mods/iris-neoforge-1.8.14-beta.1_mc1.21.1.pw.toml"
+hash = "b456f3987b40676bf47e725ba63115135e6dca300180d99efeae9810e8fbbfe3"
 metafile = true
 
 [[files]]
@@ -502,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib-neoforge-1.10.0_1.21.1.pw.toml"
-hash = "7194fe6c81b131498e8bd98372f84102daa6a1c959500d90925a760e48d316b2"
+hash = "74cde9d3d08dfc3069609c1dfcf74b8ef7a5ee16f860f2466d957e52ceb5fb86"
 metafile = true
 
 [[files]]
@@ -522,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/OctoLib-NEOFORGE-0.6.3.2_1.21.pw.toml"
-hash = "1673c7f240e916bbc586b9323fe5a15b52d779a0994f3d00e303ddb94422a871"
+hash = "c2c760f810158a93dbbf82d5fdcccc3913d0e081dc1676a4748eccb282d0d2aa"
 metafile = true
 
 [[files]]
@@ -580,6 +576,11 @@ file = "mods/smpphone-0.1.0.jar"
 hash = "1adf91cfff32ab2ab80ec0d82b68df35af2df2945bf047d7ee9d49f432d2c577"
 
 [[files]]
+file = "mods/sodium-neoforge-0.8.13_mc1.21.1.pw.toml"
+hash = "ca085563b7c593cc8be27adcd84b172ea0f975ffa0e47aacb0ae26b00919e1bf"
+metafile = true
+
+[[files]]
 file = "mods/soniccycle-1.0.0-mc1.21.1.pw.toml"
 hash = "60a94e4fe3916edc6d7993e0474564b03a85e1540dd83e7f68395df269584ada"
 metafile = true
@@ -601,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/txnilib-neoforge-1.0.24-1.21.1.pw.toml"
-hash = "9ac1b84875fc41b2525dad34f3913116047b160d132b8f777b05a841710e8ad0"
+hash = "d9943504b0e25a37b125f4efba47797043c3b7c43847ee2d36058fb0892ffaea"
 metafile = true
 
 [[files]]
@@ -611,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/visualoverhaul-neoforge-5.2.1.pw.toml"
-hash = "331e4d3ec38038fe80e774477f8c83840ad59c9eed1a1edc24cb035327dcfc98"
+hash = "aa7457306ae314335642c0622d87dc01ba587ed263cacba8e403e7cd22e7a462"
 metafile = true
 
 [[files]]
@@ -662,3 +663,28 @@ metafile = true
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "shaderpacks/BSL_v10.1.8.zip.pw.toml"
+hash = "e63d6d231479022812f41eadaf65cea7ad4e0486db2b8831815d1943339eb846"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.10.zip.pw.toml"
+hash = "1024fd82f0e172bed3f790e6dd2e9f8db5e52b959ae015e75556ff1e563060bb"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.10.zip.pw.toml"
+hash = "4d493446f363925c904115f30f550b6e8a2bae72f8e6d8895b7c25d8103155d4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/MakeUp-UltraFast-9.6a.zip.pw.toml"
+hash = "691560fe60c8e9c5a3f890aaca148b3f564183f2a5ed88fbae02bd274e4da534"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon_v1.4.zip.pw.toml"
+hash = "12cb65b7dabfb3f4c977fc3e985988aaa07425682b8c29ce87150331612490eb"
+metafile = true

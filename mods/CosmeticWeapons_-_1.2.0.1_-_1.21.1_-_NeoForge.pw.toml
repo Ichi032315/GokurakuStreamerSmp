@@ -1,0 +1,8 @@
+name = "CosmeticWeapons - 1.2.0.1 - 1.21.1 - NeoForge"
+filename = "CosmeticWeapons - 1.2.0.1 - 1.21.1 - NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y7CFb6kD/versions/qpCEXt00/CosmeticWeapons%20-%201.2.0.1%20-%201.21.1%20-%20NeoForge.jar"
+hash-format = "sha512"
+hash = "6055217b58faf3407e9be2e5b461010463112444969e273facc7325ef961725587db6d9082d519de86ed6bc946d5cffd4da6f896de7fda6035ba35a623f0c49a"

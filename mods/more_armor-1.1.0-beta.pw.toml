@@ -1,0 +1,8 @@
+name = "more_armor-1.1.0-beta"
+filename = "more_armor-1.1.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y1zjSTMZ/versions/AwTCLNx1/more_armor-1.1.0-beta.jar"
+hash-format = "sha512"
+hash = "4d72af2d3d0e995b52ba9bd90333b284698082ea5eabeca983766b87b1e0e826923ff92853e45ac0a49e8e7496a7d84a7d8aa3acebd7d529c5d2a6e130400e35"

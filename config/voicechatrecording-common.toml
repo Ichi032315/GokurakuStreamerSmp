@@ -1,0 +1,5 @@
+silenceThreshold = 700
+readingThreadCount = 4
+saveThreadCount = 4
+cacheRemovalTime = 300000
+namespaceSaveTicks = 400

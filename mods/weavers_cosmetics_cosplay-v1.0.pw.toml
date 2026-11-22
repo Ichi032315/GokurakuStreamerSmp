@@ -1,0 +1,8 @@
+name = "weavers_cosmetics_cosplay-v1.0"
+filename = "weavers_cosmetics_cosplay-v1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7VeATwgo/versions/YTotlKQH/weavers_cosmetics_cosplay-v1.0.jar"
+hash-format = "sha512"
+hash = "de00bc6680e6db4b0e9247001c214f227db3f8a3706368d29d6c7639fa5cc135bd7e76428b8af90dfc37f21d93107d1b36d30eadeb0a4e32ab6b32bfa9028720"

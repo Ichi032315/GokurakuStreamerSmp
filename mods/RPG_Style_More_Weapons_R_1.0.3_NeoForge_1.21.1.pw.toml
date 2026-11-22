@@ -1,0 +1,8 @@
+name = "RPG_Style_More_Weapons_R_1.0.3_NeoForge_1.21.1"
+filename = "RPG_Style_More_Weapons_R_1.0.3_NeoForge_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cUtKlbur/versions/GsuGlu68/RPG_Style_More_Weapons_R_1.0.3_NeoForge_1.21.1.jar"
+hash-format = "sha512"
+hash = "f3e1abd80e43964d678f80858df92f60833066c1484bb3e8b2d0da8fab3371b85d88a4bcbc8df74b2c9dc23e7f0640886a6d4230139a6c55c7e69cf8b3172047"

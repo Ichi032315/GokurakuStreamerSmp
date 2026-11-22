@@ -1,0 +1,621 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/ambientsounds-client.json"
+hash = "c98f572839ace55b0792042fa4b984311e7d876abdaccfc8a4694f5bebad766c"
+
+[[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "0d567c27b10feb3945d329fc6ff0bf4f3eaeace7456aa814b7912063b2281e42"
+
+[[files]]
+file = "config/apotheosis/apothic_attributes.cfg"
+hash = "336a1dcfde783fb49e7f5ae3f5905179e2e7800c0cd41cee8fc6bd210edb2e06"
+
+[[files]]
+file = "config/apotheosis/apothic_enchanting.cfg"
+hash = "2150a9e5f1bf77a33843d3a9d290efad799e7aaf338b1f6d0bedfae190864aa8"
+
+[[files]]
+file = "config/apotheosis/enchantments.cfg"
+hash = "47a6d29bcc055aa751e6abed6438210ed5de9a8d85171b30a9fe5498e1e12b48"
+
+[[files]]
+file = "config/apotheosis/name_generation.cfg"
+hash = "c0b9789c01326b6eaed364c0cf1df0f41a2bdbbf37f3243d695005bf9c988a36"
+
+[[files]]
+file = "config/apothic_spawners.cfg"
+hash = "eda93df8c30acf8d7e14f4f2baf583f77ec37fcc05d8acc85988ffd465d5038c"
+
+[[files]]
+file = "config/appleskin-client.toml"
+hash = "7127a276c7305371397053cd8d0833e6825c828850626e4067b9fed1430ed217"
+
+[[files]]
+file = "config/aquaculture-common.toml"
+hash = "e8d9fdd5fe9b62b1dc3019fdb9489406654f0336d05bc23f217a1152ad0efe24"
+
+[[files]]
+file = "config/azurelib.json"
+hash = "9f136b36f13fb0f7d0de277ecf6d933914c7dcc3f646136cd09a68e904659109"
+
+[[files]]
+file = "config/blueprint-client.toml"
+hash = "2459dd80f64e56da7a6259b6a68e29f00130ada136c28c834ba01ecd3485f012"
+
+[[files]]
+file = "config/blueprint-common.toml"
+hash = "251f732f07620eab2bb5e56eb068e39e6d651d26aaa7094f59d090d9ce82ede7"
+
+[[files]]
+file = "config/bosses_of_mass_destruction.json5"
+hash = "7564bd719243a64b1d00424eb4602b85415e578905de5a9587f5f10ff2427d1f"
+
+[[files]]
+file = "config/cataclysm-client.toml"
+hash = "a83db10f4450e21761559465b75388c115d3f0d899b368e1124f380d49b737a8"
+
+[[files]]
+file = "config/cataclysm-common.toml"
+hash = "61926b9ce81d6d44ac25e367b67e5642235fa026e6dddd6be54e0c2965570cc7"
+
+[[files]]
+file = "config/connector.json"
+hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
+
+[[files]]
+file = "config/cosmeticarmorreworked-client.json"
+hash = "340cd61fabf60cf2f1a2199afb2cac891d567145823d80df25aa0984d9d13d75"
+
+[[files]]
+file = "config/cosmeticarmorreworked-common.json"
+hash = "e9ae046049d8548ae9c96902aab751e97fed0fdae7b73aff712eefa5cdbaf05f"
+
+[[files]]
+file = "config/creativecore-client.json"
+hash = "acb6c8c1394d4d6f2d0c98d5c314c5ef8ad34b8a76f0a420fc596733bcbc51ac"
+
+[[files]]
+file = "config/creativecore.json"
+hash = "5f08d0878d7f89c6b4c947a49dce368d7738255d44fecf9aad59ec6ae8a4fcef"
+
+[[files]]
+file = "config/cubes_without_borders.json"
+hash = "f248bc2019d956312c0c18037b84e764947dd200c00a96f45a807624d233010d"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
+
+[[files]]
+file = "config/curios-server.toml"
+hash = "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
+
+[[files]]
+file = "config/cwb.json"
+hash = "f32b4b2393e6c45ef71fcce3486dda23733a49c250ba0c998783e5c222587393"
+
+[[files]]
+file = "config/dungeon_crawl.toml"
+hash = "75c2c57214717c4a4c903df30780999571f82dd0ac63a43f31e3407d1cc7cbd4"
+
+[[files]]
+file = "config/embeddium-mixins.properties"
+hash = "708750dc530ed52462185c7b1421291db8b292a350e164daaad437ba6f4fe4ef"
+
+[[files]]
+file = "config/extrasounds.json"
+hash = "764b1720967b62495fb809a1c7b050e07247cb32af2c15ab9efcb35add1e9f50"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "a8cdc0376674d522d92d977cac5800d00c6f70ea62ea83dea59595fb232b8e3e"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "0cc639f1ce8ab5e63f754ab41be3ab09398fd149de6d0b5edc476034e3ed8b06"
+
+[[files]]
+file = "config/fml.toml"
+hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
+
+[[files]]
+file = "config/gravestone-client.toml"
+hash = "6509ae4ffdec69d81c54f5d52e42c6d7d507b68bd019e658486b37908c1a7ed8"
+
+[[files]]
+file = "config/gravestone-server.toml"
+hash = "d6bee13ae45904562fc651630ce48fa4e70cd3853fe2f488403c9b67d0c74c2a"
+
+[[files]]
+file = "config/iceandfire/iaf-client.json"
+hash = "cb326e55a4a76c4741c031ce61b48f96b56dbc327792d457f4eb7894d6a0fad7"
+
+[[files]]
+file = "config/iceandfire/iaf-common.json"
+hash = "a520e5e7909c9e50d1857874f853e6fafff8ac106fabff239868d5c57a57b546"
+
+[[files]]
+file = "config/immersive_aircraft.json"
+hash = "ce7819f03ea9c5d1a24507e26d6b0cf21d9a0d33a4bdf7aba2f19d5d54051124"
+
+[[files]]
+file = "config/iteminteractions-client.toml"
+hash = "4f0a6f90652668b77a29f2629150f67d155ad3a65d7e344046b3494f6cd191a2"
+
+[[files]]
+file = "config/jupiter.json"
+hash = "ac6415cb504a1cd8d129435e67e718b0f139613f378127f0f8f21ee61ca4ffe7"
+
+[[files]]
+file = "config/luckyswardrobe-common.toml"
+hash = "5309a9d0200a70edf9c63a1cebec5edb9e4d9758a462a8b4ecb977c674a941b9"
+
+[[files]]
+file = "config/maps3d-server.properties"
+hash = "d6de17f5657d88a073815ff21ce358b5eb8654ce1b468df1e4a97c9bfd9e30ac"
+
+[[files]]
+file = "config/more_armor-common.toml"
+hash = "4502bef407cdfb04f45ac1da3516bdc52014420e80fbc44b195ff061332cd953"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/neapolitan-common.toml"
+hash = "0c753d0f3720eadd82a0ba727257e9e598c6deb4ac8adfba05f7701f7e19f0a6"
+
+[[files]]
+file = "config/neoforge-client.toml"
+hash = "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0"
+
+[[files]]
+file = "config/neoforge-common.toml"
+hash = "fe878a2717a145cd890621eac5b3be1e1fd656f7ff9abc6e8d53f670d37474c4"
+
+[[files]]
+file = "config/neoforge-server.toml"
+hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
+
+[[files]]
+file = "config/patchouli-client.toml"
+hash = "d9a6d7cadb6d473cf087602d9866840d2bb7f2c16915267eb3f6fbf68d5d774d"
+
+[[files]]
+file = "config/placebo.cfg"
+hash = "eb7e9906d126543f03c2257ca98efa4b845d1e7479dc8b069a12b194c86debcf"
+
+[[files]]
+file = "config/Prefab.json"
+hash = "429ff5c0df81bc847bc3a7ef24625862517f71fc32e72b0e6affb12f1ebbff03"
+
+[[files]]
+file = "config/rrls.toml"
+hash = "50aa30a1d8c6d5c07552b639a63169d7dc34936d84bd8b97af80e0083e851b9d"
+
+[[files]]
+file = "config/sit-server.toml"
+hash = "a55a06cbc90fbdc7e292ad2a5b25328c37e66dc57d5b486e80730dc5b54eab34"
+
+[[files]]
+file = "config/soniccycle.json"
+hash = "159126dafd18a214fc1e4f3bf12c61b8084e78fa4807acbc3c0e767345e2330b"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "39331907d5507ec63e37b3a693f13af387343c9baeb2da7de6a495c8ba8a13b2"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
+
+[[files]]
+file = "config/sound_physics_remastered/sound_rates.properties"
+hash = "79fb0f0bf80f2e74367c3ce6a32b96db06a1c6d062e5b5e2d4b55ecedcfaa94a"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "d29dede3f214ee4b1aa03314f92c3f973c21ee6e26d173eba3d01a2083237b6d"
+
+[[files]]
+file = "config/travelersbackpack-client.toml"
+hash = "cd1bd3af16d2f93b16db571d21b5db5d2ac0a7e4637f2c5068dbf184c672838d"
+
+[[files]]
+file = "config/travelersbackpack-common.toml"
+hash = "37ce5a56214bb9ca267ea3a4bdeee69da309afbbd6f74866efdd6e987a709ce3"
+
+[[files]]
+file = "config/travelersbackpack-server.toml"
+hash = "5a76437c5de30a4627649b628c1729ba34bfac796af5a0b9d16af3c218e00161"
+
+[[files]]
+file = "config/trmt-client.json"
+hash = "3f05a62ecf2b307ec62e5bf24f645121685bde1bb8ceae1c0fc375a121dac8c8"
+
+[[files]]
+file = "config/trmt.json"
+hash = "dc616de5844f627b0196f517f4ba92a9a4866a9c2d84a9ca97f4291aa90ac731"
+
+[[files]]
+file = "config/visualworkbench-client.toml"
+hash = "d4618e607b629668b7f10e8641667c2104799627546173a142f45317f773b7d3"
+
+[[files]]
+file = "config/voicechatrecording-client.toml"
+hash = "6276de36fbb4824ec6baced239dc3bdbe986ffbce81c9eccadc6230857922105"
+
+[[files]]
+file = "config/voicechatrecording-common.toml"
+hash = "652dc2cdc426724fa7c525a6cbaeda76dc7dea5f611bd5a35eca27f657e93449"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "080db7f74b75a78be6fe050ae26ab8422ec77bcc62129b4761f277e02c695ced"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+
+[[files]]
+file = "config/yo_hooks/overlaps.json"
+hash = "3b91593b33255e3301ec0ab2281481e00321cd1f4e37ba6ae0bac3d132f5f100"
+
+[[files]]
+file = "config/yo_hooks/yo_hooks-client.json"
+hash = "e514ab6b3dac1e0175bdb4afa3bc9ae2371a994e9205a180f85b3f7d17fbbc0a"
+
+[[files]]
+file = "config/yo_hooks/yo_hooks-common.json"
+hash = "a5979b41e126bcb4e7bcf7ebb0a6f145805a7a56563a141eccd464b7321aff3d"
+
+[[files]]
+file = "config/yo_hooks/yo_hooks-server.json"
+hash = "1b608a982efd542338e19ed47736133b7a300e67cd57284e57b6edcbac00d415"
+
+[[files]]
+file = "mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.pw.toml"
+hash = "6c175863cc13e9121a3d0539a3b395aa47fe494b04fbe294443dc9ac8f7c2aa1"
+metafile = true
+
+[[files]]
+file = "mods/Apotheosis-1.21.1-8.8.0.pw.toml"
+hash = "e0269b73504c8c6ddade19cab3fb9a6b3a5496378b99f3654b5f4b42c0046b12"
+metafile = true
+
+[[files]]
+file = "mods/ApothicAttributes-1.21.1-2.10.1.pw.toml"
+hash = "1619b1799786269ba7c526b6f61e9a965fb58ed27770ce9b473819c58325e95e"
+metafile = true
+
+[[files]]
+file = "mods/ApothicEnchanting-1.21.1-1.6.2.pw.toml"
+hash = "21b29ea68e52eb3c941deb9aafeac56192e9445bceb19a4123c5a2a938e9e261"
+metafile = true
+
+[[files]]
+file = "mods/ApothicSpawners-1.21.1-1.4.0.pw.toml"
+hash = "14c10f35f3fe2665d0d0425f820d07caa1bfd2288a50a425be51137cd4173a0b"
+metafile = true
+
+[[files]]
+file = "mods/appleskin-neoforge-mc1.21-3.0.9.pw.toml"
+hash = "3f257567c60f43123af72c85cd954b44efd48b7444f632ded016a646ba3ebf3c"
+metafile = true
+
+[[files]]
+file = "mods/Aquaculture-1.21.1-2.7.21.pw.toml"
+hash = "83a9a0fa5f83dd8c2c9d1c39ce4fdeda2416e2961173029e41355a687779879b"
+metafile = true
+
+[[files]]
+file = "mods/aquaculturedelight-1.2.0-neoforge-1.21.1.pw.toml"
+hash = "6f6c004256ce2c38d23ef8abeda5ed651a7eac5f13b63e5ae9e14855107e97cc"
+metafile = true
+
+[[files]]
+file = "mods/architectury-13.0.11-neoforge.pw.toml"
+hash = "8d1ede79086c5c8481c1d71bb649979fc7cc1ebffa8f4f3ba1204d62a436a488"
+metafile = true
+
+[[files]]
+file = "mods/azurelib-neo-1.21.1-3.1.21.pw.toml"
+hash = "08069c1e3833cbf237872940c9dc079955de2b1e01cc9dc1c5b1cb62a52a5982"
+metafile = true
+
+[[files]]
+file = "mods/balm-neoforge-1.21.1-21.0.65.pw.toml"
+hash = "c170dbd631378e06964b16a70699f149af5a71f2a19407252113dbef488cd4bb"
+metafile = true
+
+[[files]]
+file = "mods/BOMD-NeoForge-1.21-1.3.3.pw.toml"
+hash = "7432acc09c0b1e4488879308d6e32de56343bb63ce8224f44839ee99c2e5cb27"
+metafile = true
+
+[[files]]
+file = "mods/caramelChat-mc1.21.1-neoforge-1.2.2.pw.toml"
+hash = "248034723d36d6a06894a4e7bb815b70735c093ba874c9d31102bc1eef0feb0d"
+metafile = true
+
+[[files]]
+file = "mods/CerbonsAPI-NeoForge-1.21-1.3.0.pw.toml"
+hash = "5a0fca2cf9478c2560ccf157cb4dfc52c157cde4aeccd68694f5899dbb269f92"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-15.0.140-neoforge.pw.toml"
+hash = "17c017cf64f1c71188678cdc087023f9dc3164841905b0babf98db59bbc72d50"
+metafile = true
+
+[[files]]
+file = "mods/connector-2.0.0-beta.17_1.21.1-full.pw.toml"
+hash = "0e764d07fb834003d31bf4f21eba2ce7138ac2b481edb568d16f03af0ebce4e2"
+metafile = true
+
+[[files]]
+file = "mods/cosmeticarmorreworkedforked-neoforge-1.21.1-0.0.4.pw.toml"
+hash = "fbf3f7d47f49da59e718926bde4c8ff766c533dd3fde97699eeaab0b50b66250"
+metafile = true
+
+[[files]]
+file = "mods/CosmeticWeapons_-_1.2.0.1_-_1.21.1_-_NeoForge.pw.toml"
+hash = "361ba5313643209d1c4d3a1620e8c6b6bddfeafa7bb154d5d25b4b9e887d9c8d"
+metafile = true
+
+[[files]]
+file = "mods/CreativeCore_NEOFORGE_v2.13.46_mc1.21.1.pw.toml"
+hash = "d343a7dfeaa8acb371cd187dee8b144ccf49868f98d32ac48d7e21d7cc9f5ddd"
+metafile = true
+
+[[files]]
+file = "mods/curios-neoforge-9.5.1_1.21.1.pw.toml"
+hash = "fd1c0328e26d0d16be2efe74426327f754d31f787a23770bf6a18c01c9893d68"
+metafile = true
+
+[[files]]
+file = "mods/cwb-5.0.0_1.21.0.neoforge.pw.toml"
+hash = "f515dd512d200f370621bdfee869fc2fe6ed4a867ce3c4e0b7f4d1a86d3eab44"
+metafile = true
+
+[[files]]
+file = "mods/DungeonCrawl-NeoForge-1.21-2.3.17.pw.toml"
+hash = "e970b2bca5268bc68146e4db676d6c926316f48306e0b74d12ab51153bee0f74"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-v4.4.4.pw.toml"
+hash = "e3b94852092b7f867e15b54a7da8af9b0620e43f46ca8e9f0693eb82dbb1511b"
+metafile = true
+
+[[files]]
+file = "mods/EasyShulkerBoxes-v21.1.3-1.21.1-NeoForge.pw.toml"
+hash = "e876397f37e102b7da6f3009727f1b043e1159cf4a70d4f5ea9c2ee756bcfaf5"
+metafile = true
+
+[[files]]
+file = "mods/embeddium-1.0.15_mc1.21.1.pw.toml"
+hash = "323ea6613bbc7c5e9f5b8a4ee35be04f0a31922825dc84d2ca30f51bac7a9f81"
+metafile = true
+
+[[files]]
+file = "mods/epicpaladins-1.4.3-1.21.1.jar"
+hash = "3516154552f20c560dcda2e2c38df9774d9165b82289921c285869c715bc24ac"
+
+[[files]]
+file = "mods/extrasounds-1.5.6_1.21.1-neoforge.pw.toml"
+hash = "668ca3d5067a309ff565e31e7f236d9d0fe4cd32c55225941e83d53755e648b7"
+metafile = true
+
+[[files]]
+file = "mods/FarmersDelight-1.21.1-1.3.4.pw.toml"
+hash = "11c078f96aa80bbbafc345d6647b4714f6181e617fdcdc45db7d660b4e001ebd"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api-0.116.15_2.3.5_1.21.1.pw.toml"
+hash = "f7fa8ec092f1f50e407208f8e1a8214ad2c41cc0ec4377f107a9f0ea562d7c14"
+metafile = true
+
+[[files]]
+file = "mods/gears_of_valor-neoforge-1.21.1-1.3.1.jar"
+hash = "c2779aba681cf72cf85cf99aa370c9b8fc00f6f526b923200911c9c21e35d564"
+
+[[files]]
+file = "mods/geckolib-neoforge-1.21.1-4.9.2.pw.toml"
+hash = "3bbdf7c30e4de33414d4c5d1e405bbe4638048000d9d09a910e12415635992a1"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-neoforge-1.21.1-1.0.40.pw.toml"
+hash = "0e81c1bb18b7f68656fe0093ec433007241b57aa8c23559f230a8d12e35e3ccc"
+metafile = true
+
+[[files]]
+file = "mods/iceandfire-2.1-beta.1.pw.toml"
+hash = "6908b4844862c5bfa0f78675e279ec01587433e693297ce98915c0bb8dd7d48d"
+metafile = true
+
+[[files]]
+file = "mods/immersive_aircraft-neoforge-1.6.0_1.21.1.pw.toml"
+hash = "8560d99ee98b63c613d15c1f81a8e5433ec5139072e2a4c253f813c534eaf57d"
+metafile = true
+
+[[files]]
+file = "mods/jupiter-2.3.7-1.21.1-neoforge.pw.toml"
+hash = "9e552d17d1680a8d84210795b4e83655f69c129023aeaf6f6300fbce791d14b6"
+metafile = true
+
+[[files]]
+file = "mods/L_Enders_Cataclysm-1.21.1-3.33.jar"
+hash = "23921a268acc8b695291f12e89c5e4c261ee5f59a3b6d763793461efb3e7e1d6"
+
+[[files]]
+file = "mods/LeavesBeGone-v21.1.1-1.21.1-NeoForge.pw.toml"
+hash = "653f8a43258e97725e5e64797104734b259d9b52598059a2ef0c58a5932bd3cc"
+metafile = true
+
+[[files]]
+file = "mods/lionfishapi-3.1.pw.toml"
+hash = "a74d25ad7352b28b22a47e0e82b3d657625c1518761cfab985041f77ded7a0d6"
+metafile = true
+
+[[files]]
+file = "mods/luckyswardrobe-2.0.0.pw.toml"
+hash = "23cfc801aa277346d2865dd4c76a8aaca80d58d2f4881f2396e47bb813658b65"
+metafile = true
+
+[[files]]
+file = "mods/maps3d_1.2.4-1.21.1-neoforge.jar"
+hash = "4d8028c8392b1a65f4e3af9bfec4d081bea3ba8785b63597a9a5c17e088f7f35"
+
+[[files]]
+file = "mods/mcw-furniture-3.4.1-mc1.21.1neoforge.pw.toml"
+hash = "696fb13b72e703dd49694b01df10dba5343c46396c818ab856a34b1ff06288b5"
+metafile = true
+
+[[files]]
+file = "mods/MinecraftCapes_NeoForge_1.21.1-1.1.0.pw.toml"
+hash = "579f58e819d976ac19838dea892fd24ef91fc513de23d8003e6f6328d3d2cb57"
+metafile = true
+
+[[files]]
+file = "mods/more_armor-1.1.0-beta.pw.toml"
+hash = "bae88fa24ebddc9328baf4404d462c7105881c10961ca383085aaab67b7f1580"
+metafile = true
+
+[[files]]
+file = "mods/MouseTweaks-neoforge-mc1.21-2.26.1.pw.toml"
+hash = "adc0189c2442d4ae2af3ee6b5ada05ab6a4729261d33e65bb997c3ea91eecbbb"
+metafile = true
+
+[[files]]
+file = "mods/orbital_railgun-1.2.0_mc1.21.1.pw.toml"
+hash = "5440b242abf7d780075a336da704ed1da32e68f247c3aee8e791bde173931a02"
+metafile = true
+
+[[files]]
+file = "mods/Patchouli-1.21.1-93-NEOFORGE.pw.toml"
+hash = "c3c1998dd5fec3dae375f4e9696f927d7413c42ebe5319598161300f5eecb16e"
+metafile = true
+
+[[files]]
+file = "mods/Placebo-1.21.1-9.9.2.pw.toml"
+hash = "3695987dd4542bd9e787a657f8ff57b73033c89496a94cf572e51d9797a0d36d"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-lib-forge-2.0.4_1.21.1.pw.toml"
+hash = "f02352ef5f20d6dbff17088a60dc2e55a03707d41b45616634b8b70df31f200b"
+metafile = true
+
+[[files]]
+file = "mods/polymorph-neoforge-1.2.0_1.21.1.pw.toml"
+hash = "85ae7fe6e214b4375a098c9226af9910520e0783f1670e52481d59957401b5a8"
+metafile = true
+
+[[files]]
+file = "mods/prefab-neoforge-1.0.9.pw.toml"
+hash = "70bd4250026c476245ea3dbce04d7b740251431d08e120044e54d719e9afbb64"
+metafile = true
+
+[[files]]
+file = "mods/puzzleslib-v21.1.64-mc1.21.1_neoforge.pw.toml"
+hash = "46370119f059c83e254cdf04bf2c2e1993a2dbe01ae4f754e5317d58cbfeadd8"
+metafile = true
+
+[[files]]
+file = "mods/RPG_Style_More_Weapons_R_1.0.3_NeoForge_1.21.1.pw.toml"
+hash = "a08d7e8b493210d9b3521b01b04ad3af818c4cd6ab650c502644a36e7fa0510e"
+metafile = true
+
+[[files]]
+file = "mods/rrls-5.0.11_mc1.21.1-forge.pw.toml"
+hash = "564b93bf043ed87da32874b3375e28a2cb9467f74d12da4830edbaef7d3814f6"
+metafile = true
+
+[[files]]
+file = "mods/sit-1.21.1-1.4.pw.toml"
+hash = "e0e428cc6cc188409eb460e93ce0eee5e4977df3d2706b4cf962e68dc2e873eb"
+metafile = true
+
+[[files]]
+file = "mods/smpphone-0.1.0.jar"
+hash = "1adf91cfff32ab2ab80ec0d82b68df35af2df2945bf047d7ee9d49f432d2c577"
+
+[[files]]
+file = "mods/soniccycle-1.0.0-mc1.21.1.pw.toml"
+hash = "60a94e4fe3916edc6d7993e0474564b03a85e1540dd83e7f68395df269584ada"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.2.pw.toml"
+hash = "7d678d387a9ade412edd61406425d7b12625fec9124c2b474fde4589d400ce8d"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack-neoforge-1.21.1-10.1.39.pw.toml"
+hash = "0363d968c0cbfc8b7089b3b75414571c9bcadc002676379eb67e225063500620"
+metafile = true
+
+[[files]]
+file = "mods/trmt-0.5.1-1.21.1-neoforge.pw.toml"
+hash = "ae4091aa68bf94161a86301cc15871b0bfe265740caacd7265b55ca3773875c4"
+metafile = true
+
+[[files]]
+file = "mods/uranus-2.4.1-1.21.1-neoforge.pw.toml"
+hash = "7987adea72c1c6c3265dc94314b83c5f00ebf76a35eb5ce350d0865ad7300385"
+metafile = true
+
+[[files]]
+file = "mods/VisualWorkbench-v21.1.2-1.21.1-NeoForge.pw.toml"
+hash = "91e6fe1f4b3c3904c1bcf0cb0d89876011e657a1bd2020c5ece0dd5964984073"
+metafile = true
+
+[[files]]
+file = "mods/voicechat-neoforge-1.21.1-2.6.23.pw.toml"
+hash = "1109b15bcb66e5dd833f756d616de5a729566345a92d8a6330f09931838a7c64"
+metafile = true
+
+[[files]]
+file = "mods/voicechatrecording-1.21.1-2.1.pw.toml"
+hash = "91181afa63ec04239b049c0b57b96feeb806b7192a296b2e047d48f268aa16d1"
+metafile = true
+
+[[files]]
+file = "mods/waystones-neoforge-1.21.1-21.1.44.pw.toml"
+hash = "76ae0514ab895ed1b2f597acc7632b0b5124f1cdb57854c6b687a1582f3ee4bb"
+metafile = true
+
+[[files]]
+file = "mods/weavers_cosmetics_cosplay-v1.0.pw.toml"
+hash = "7506823feef7d9a4e9691ebe99bc21fcc1e6c881d3d522f15365fbae36b77120"
+metafile = true
+
+[[files]]
+file = "mods/xaerominimap-neoforge-1.21.1-26.5.0.pw.toml"
+hash = "8be4d558d9dbdb128737c6194365e929d15a4ed0b76a566c7bed67684bde423c"
+metafile = true
+
+[[files]]
+file = "mods/xaeroworldmap-neoforge-1.21.1-1.46.0.pw.toml"
+hash = "ba251c943a9df103a9484fc89df31d6d66dda409e17b96250fd368423fa36a9d"
+metafile = true
+
+[[files]]
+file = "mods/yet_another_config_lib_v3-3.8.2_1.21.1-neoforge.pw.toml"
+hash = "06217c07eef5256c9ea6d36124933a46292e76dfbdb1e773524bd23fde5850f8"
+metafile = true
+
+[[files]]
+file = "mods/yo_hooks-5.2.1.pw.toml"
+hash = "83b670b9f0543b66b64d0eb01e83051be9012adaa4d932c27d823010921924e9"
+metafile = true

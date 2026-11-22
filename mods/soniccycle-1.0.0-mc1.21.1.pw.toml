@@ -1,0 +1,8 @@
+name = "soniccycle-1.0.0-mc1.21.1"
+filename = "soniccycle-1.0.0-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o8DgYg5p/versions/2jBzSonz/soniccycle-1.0.0-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "78f33dadca92605c85dc13587ff2e71cbaa2e5d6e8e851dbd256c9243a280c63c348842f9ec424fa5c90041abb40d8fee9cae6f1f30accc44ddcd6bb9622f361"

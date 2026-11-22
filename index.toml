@@ -281,6 +281,10 @@ file = "config/yo_hooks/yo_hooks-server.json"
 hash = "1b608a982efd542338e19ed47736133b7a300e67cd57284e57b6edcbac00d415"
 
 [[files]]
+file = "gsmp-update.bat"
+hash = "57f1916577b2a12ae4d43df0755f0fc7cfd8835543ffdd4f3f0045d53bdddd05"
+
+[[files]]
 file = "mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.pw.toml"
 hash = "6c175863cc13e9121a3d0539a3b395aa47fe494b04fbe294443dc9ac8f7c2aa1"
 metafile = true
@@ -449,6 +453,21 @@ hash = "8560d99ee98b63c613d15c1f81a8e5433ec5139072e2a4c253f813c534eaf57d"
 metafile = true
 
 [[files]]
+file = "mods/immersivearmorhud-neoforge-1.0.1-1.21.1.pw.toml"
+hash = "a0bf42a806ddc710e9c6e4bd98d2e792a362f16be66cc665026fed9e934c505e"
+metafile = true
+
+[[files]]
+file = "mods/immersivehotbar-1.3.0-neoforge-1.21-1.21.1.pw.toml"
+hash = "7c681e177a6695171c3ceb3b02c67fde0d9ca389c3bbe84239598aee6d624306"
+metafile = true
+
+[[files]]
+file = "mods/ImmersiveUI-NEOFORGE-0.3.3_1.21.1.pw.toml"
+hash = "0faf5ef4c4aa059a39c9f5216763e7c24853467c3707f7423ab456474363b6a5"
+metafile = true
+
+[[files]]
 file = "mods/jupiter-2.3.7-1.21.1-neoforge.pw.toml"
 hash = "9e552d17d1680a8d84210795b4e83655f69c129023aeaf6f6300fbce791d14b6"
 metafile = true
@@ -482,6 +501,11 @@ hash = "696fb13b72e703dd49694b01df10dba5343c46396c818ab856a34b1ff06288b5"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib-neoforge-1.10.0_1.21.1.pw.toml"
+hash = "7194fe6c81b131498e8bd98372f84102daa6a1c959500d90925a760e48d316b2"
+metafile = true
+
+[[files]]
 file = "mods/MinecraftCapes_NeoForge_1.21.1-1.1.0.pw.toml"
 hash = "579f58e819d976ac19838dea892fd24ef91fc513de23d8003e6f6328d3d2cb57"
 metafile = true
@@ -494,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/MouseTweaks-neoforge-mc1.21-2.26.1.pw.toml"
 hash = "adc0189c2442d4ae2af3ee6b5ada05ab6a4729261d33e65bb997c3ea91eecbbb"
+metafile = true
+
+[[files]]
+file = "mods/OctoLib-NEOFORGE-0.6.3.2_1.21.pw.toml"
+hash = "1673c7f240e916bbc586b9323fe5a15b52d779a0994f3d00e303ddb94422a871"
 metafile = true
 
 [[files]]
@@ -571,8 +600,18 @@ hash = "ae4091aa68bf94161a86301cc15871b0bfe265740caacd7265b55ca3773875c4"
 metafile = true
 
 [[files]]
+file = "mods/txnilib-neoforge-1.0.24-1.21.1.pw.toml"
+hash = "9ac1b84875fc41b2525dad34f3913116047b160d132b8f777b05a841710e8ad0"
+metafile = true
+
+[[files]]
 file = "mods/uranus-2.4.1-1.21.1-neoforge.pw.toml"
 hash = "7987adea72c1c6c3265dc94314b83c5f00ebf76a35eb5ce350d0865ad7300385"
+metafile = true
+
+[[files]]
+file = "mods/visualoverhaul-neoforge-5.2.1.pw.toml"
+hash = "331e4d3ec38038fe80e774477f8c83840ad59c9eed1a1edc24cb035327dcfc98"
 metafile = true
 
 [[files]]
@@ -619,3 +658,7 @@ metafile = true
 file = "mods/yo_hooks-5.2.1.pw.toml"
 hash = "83b670b9f0543b66b64d0eb01e83051be9012adaa4d932c27d823010921924e9"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"

@@ -1,6 +1,6 @@
-name = "Immersive Furniture"
+name = "immersive_furniture-neoforge-0.4.1+1.21.1"
 filename = "immersive_furniture-neoforge-0.4.1+1.21.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/SvN6UGeF/versions/oa8FVOtg/immersive_furniture-neoforge-0.4.1%2B1.21.1.jar"

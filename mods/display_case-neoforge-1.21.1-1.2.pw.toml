@@ -1,6 +1,6 @@
-name = "Display Case"
+name = "display_case-neoforge-1.21.1-1.2"
 filename = "display_case-neoforge-1.21.1-1.2.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/cSIsh4gX/versions/RvZYsas0/display_case-neoforge-1.21.1-1.2.jar"

@@ -1,6 +1,6 @@
-name = "Immersive Armor HUD"
+name = "immersivearmorhud-neoforge-1.0.1-1.21.1"
 filename = "immersivearmorhud-neoforge-1.0.1-1.21.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/EyJFr6Vw/versions/mRwKN5DQ/immersivearmorhud-neoforge-1.0.1-1.21.1.jar"

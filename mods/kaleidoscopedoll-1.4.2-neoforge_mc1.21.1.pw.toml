@@ -1,6 +1,6 @@
-name = "Kaleidoscope Doll"
+name = "kaleidoscopedoll-1.4.2-neoforge+mc1.21.1"
 filename = "kaleidoscopedoll-1.4.2-neoforge+mc1.21.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/vQLjjxNs/versions/iRKxsLXR/kaleidoscopedoll-1.4.2-neoforge%2Bmc1.21.1.jar"

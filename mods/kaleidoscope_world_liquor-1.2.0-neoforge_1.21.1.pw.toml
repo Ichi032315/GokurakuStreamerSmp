@@ -1,6 +1,6 @@
-name = "Kaleidoscope World Liquor"
+name = "kaleidoscope_world_liquor-1.2.0-neoforge+1.21.1"
 filename = "kaleidoscope_world_liquor-1.2.0-neoforge+1.21.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ePVLCraM/versions/zotnLCuH/kaleidoscope_world_liquor-1.2.0-neoforge%2B1.21.1.jar"

@@ -1,6 +1,6 @@
-name = "Kaleidoscope Tavern"
+name = "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1"
 filename = "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/r9RZvhiJ/versions/W9ILsQt7/kaleidoscopetavern-1.2.0-neoforge%2Bmc1.21.1.jar"

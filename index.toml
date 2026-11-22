@@ -22,7 +22,7 @@ hash = "47a6d29bcc055aa751e6abed6438210ed5de9a8d85171b30a9fe5498e1e12b48"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
-hash = "c0b9789c01326b6eaed364c0cf1df0f41a2bdbbf37f3243d695005bf9c988a36"
+hash = "60983dc50ac400d85a38f298a72753b48da87108af161c5f99d1cd193b68f976"
 
 [[files]]
 file = "config/apothic_spawners.cfg"
@@ -109,6 +109,10 @@ file = "config/extrasounds.json"
 hash = "764b1720967b62495fb809a1c7b050e07247cb32af2c15ab9efcb35add1e9f50"
 
 [[files]]
+file = "config/fantasy_armor-client.toml"
+hash = "8024ba9bfdef41b2620adce087d89af1ec02e21ead145a4161dc37a154bb1058"
+
+[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "a8cdc0376674d522d92d977cac5800d00c6f70ea62ea83dea59595fb232b8e3e"
 
@@ -141,6 +145,30 @@ file = "config/immersive_aircraft.json"
 hash = "ce7819f03ea9c5d1a24507e26d6b0cf21d9a0d33a4bdf7aba2f19d5d54051124"
 
 [[files]]
+file = "config/immersive_furniture.json"
+hash = "7f4ba2f28decbf7b7f701473ba49d1fd8f1f7412a0767d9b93f1f25ee499a90c"
+
+[[files]]
+file = "config/immersive-hotbar.json5"
+hash = "e4c3ad4ce3123a56fc729e5a68c5a640adc6bb0fd275b8042fcea34d05af3f14"
+
+[[files]]
+file = "config/immersivearmorhud-client.toml"
+hash = "840390cbba6d8755e7c0600031497f62d471d1f5aa645d2037ffad8d95a8eac6"
+
+[[files]]
+file = "config/immersiveui.yaml"
+hash = "2abb8702e36e2745284cb4337508d9e2305ff7bf1d6eebe23bf05de75b3acff6"
+
+[[files]]
+file = "config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/iris.properties"
+hash = "0ea111f8ce4186e4f0c5a8d0495daab3516ec7fbf6fbbb6388ac074f320447df"
+
+[[files]]
 file = "config/iteminteractions-client.toml"
 hash = "4f0a6f90652668b77a29f2629150f67d155ad3a65d7e344046b3494f6cd191a2"
 
@@ -149,12 +177,40 @@ file = "config/jupiter.json"
 hash = "ac6415cb504a1cd8d129435e67e718b0f139613f378127f0f8f21ee61ca4ffe7"
 
 [[files]]
+file = "config/kaleidoscope_chinesefood-common.toml"
+hash = "aaabfae367be2dff26d5a26caac0c88d0bc6ac128b6f091fbec9bd52dd68f335"
+
+[[files]]
+file = "config/kaleidoscope_cookery-client.toml"
+hash = "5b178027fc7d507ef3634d91b42bfa2b9dc1340c5a4fa2d9cfa2ba374202840f"
+
+[[files]]
+file = "config/kaleidoscope_cookery-common.toml"
+hash = "ec8de5b9f43a3ffce2978f2150cd00b818fdfca8be892d0c591e99e4b4b62fb5"
+
+[[files]]
+file = "config/kaleidoscope_doll-common.toml"
+hash = "876851d922f1fff7534015f5e5fd498d63e55b1c65d8c15f6cd01d200edbd76f"
+
+[[files]]
+file = "config/kaleidoscope_tavern-common.toml"
+hash = "975b4fc542f8d49e92c1dcd8152fdd33a9352f477c9179fbcc4cb2686cd23dc9"
+
+[[files]]
+file = "config/kaleidoscope_world_liquor-common.toml"
+hash = "5a71703a226e6d8e8d878325a046a7fc5f1c28090ee95d9bca10febdec2cf2f3"
+
+[[files]]
 file = "config/luckyswardrobe-common.toml"
 hash = "5309a9d0200a70edf9c63a1cebec5edb9e4d9758a462a8b4ecb977c674a941b9"
 
 [[files]]
 file = "config/maps3d-server.properties"
 hash = "d6de17f5657d88a073815ff21ce358b5eb8654ce1b468df1e4a97c9bfd9e30ac"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
 file = "config/more_armor-common.toml"
@@ -201,6 +257,18 @@ file = "config/sit-server.toml"
 hash = "a55a06cbc90fbdc7e292ad2a5b25328c37e66dc57d5b486e80730dc5b54eab34"
 
 [[files]]
+file = "config/sodium-fingerprint.json"
+hash = "2fe9a37cbae6804c1727c93e814de0dd257d8a0d9d143a0e9fe966680212b512"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "44478bef0973f1aa587c0493568a5cbc5426233b611f14bd2be489b5b862fa7f"
+
+[[files]]
 file = "config/soniccycle.json"
 hash = "159126dafd18a214fc1e4f3bf12c61b8084e78fa4807acbc3c0e767345e2330b"
 
@@ -214,7 +282,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "79fb0f0bf80f2e74367c3ce6a32b96db06a1c6d062e5b5e2d4b55ecedcfaa94a"
+hash = "79afd7890f4a1c057f5d4e3041219bffd4a72b1a90208833ea5d3ad91093f9ba"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -239,6 +307,10 @@ hash = "3f05a62ecf2b307ec62e5bf24f645121685bde1bb8ceae1c0fc375a121dac8c8"
 [[files]]
 file = "config/trmt.json"
 hash = "dc616de5844f627b0196f517f4ba92a9a4866a9c2d84a9ca97f4291aa90ac731"
+
+[[files]]
+file = "config/visualoverhaul.json"
+hash = "c39018436ec1dd991aa931d8d9e356b41c857212c6f4b3425668a9c5861db547"
 
 [[files]]
 file = "config/visualworkbench-client.toml"
@@ -337,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/beautify-neoforge-1.21.1-2.0.2.pw.toml"
-hash = "cc95932262fee7016b33fba2abf8dd938b3fa23f12c532c2207382de858034c5"
+hash = "2e7b34ae5f6fefac5c7679c1aa4f46fc2d0310f450e73d1a9e830729ea9882de"
 metafile = true
 
 [[files]]
@@ -392,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/display_case-neoforge-1.21.1-1.2.pw.toml"
-hash = "e035bbfee36ec0174df5565e356fb92e13bc776865dabffe00d7a1210b7dd6f0"
+hash = "c83bd4551adfc45775d4a13c7a800acbbd9c4229c7926aa49c9d369f0b7ef275"
 metafile = true
 
 [[files]]
@@ -421,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/fantasy-armor-1.3.1-1.21.1-neoforge.pw.toml"
-hash = "f2b1501ece4aa0fe05c05d8d5e5871cacf8230f35d68ae12605585f6eacd9998"
+hash = "b80f95a03c220d6d216106e5f7972209d3301d6c597cb52dc06f1e197e0d80ef"
 metafile = true
 
 [[files]]
@@ -460,32 +532,32 @@ metafile = true
 
 [[files]]
 file = "mods/immersive_furniture-neoforge-0.4.1_1.21.1.pw.toml"
-hash = "2b5768fddba3e5dd0700fb98d1ca1f4f7e24ee783007cc749f2aae8b6051c11f"
+hash = "8d16c8d80fff4a1d82633fbec3eb214c9aad9846184dde31178020f1b0f4b65d"
 metafile = true
 
 [[files]]
 file = "mods/immersive_machinery-0.2.3_1.21.1-neoforge.pw.toml"
-hash = "f51ab606a9e51e1bc1177b4c074a0d800b48ecdfc4a6ec9edea65c973dcfcc48"
+hash = "04737a85659dae194793451e2f5abd8e3ae40aef09dd551f95c1c47500e2f1eb"
 metafile = true
 
 [[files]]
 file = "mods/immersivearmorhud-neoforge-1.0.1-1.21.1.pw.toml"
-hash = "cb3ebba2838627af41aa64323a2c5ce6981e4f6960f605ab77c4b8366ca6843b"
+hash = "f2fc51668d14d41cb9e23c4ce0c458b219fdfa06f09268a4d35d902504e80180"
 metafile = true
 
 [[files]]
 file = "mods/immersivehotbar-1.3.0-neoforge-1.21-1.21.1.pw.toml"
-hash = "4d16df7da02e1297f46d498c11b77fae65b7d973cc9a1bb7fe6c87e1c42f7e98"
+hash = "403d9f3b03f8ef9f94ba9128349ed9ac52834a410e183951f31e0c5375e6296d"
 metafile = true
 
 [[files]]
 file = "mods/ImmersiveUI-NEOFORGE-0.3.3_1.21.1.pw.toml"
-hash = "4e487f83fcc3e9466d7aa374621948c3541014c07e3d611b7a986504c78d49f6"
+hash = "3c28aef54f823ac7132258ad12e6220467b8075eae55f302dd2214157628acc0"
 metafile = true
 
 [[files]]
 file = "mods/iris-neoforge-1.8.14-beta.1_mc1.21.1.pw.toml"
-hash = "b456f3987b40676bf47e725ba63115135e6dca300180d99efeae9810e8fbbfe3"
+hash = "bf64b0e953bcf5338105af072082afb7a7df875455afefda5b554d698c34ab8e"
 metafile = true
 
 [[files]]
@@ -495,27 +567,27 @@ metafile = true
 
 [[files]]
 file = "mods/kaleidoscope_chinesefood-1.2.0-neoforge_1.21.1.pw.toml"
-hash = "36753a66cb14f6ce77f75dcb4818109fbc4987a34be178dac8578a5330f462c0"
+hash = "324b217b8b6f904ae1d20a68d20c87a8186e07dc92ddaa4e54592158e6f95446"
 metafile = true
 
 [[files]]
 file = "mods/kaleidoscope_world_liquor-1.2.0-neoforge_1.21.1.pw.toml"
-hash = "160e5d4eb7726e087268c5fc351ac25321bd81019bdd8d295c0eeec44da41fc2"
+hash = "5c27c020813c2c2b451d30a23e56028c0a64b745142624a8225e9449bafde2a3"
 metafile = true
 
 [[files]]
 file = "mods/kaleidoscopecookery-1.6.0-neoforge_mc1.21.1.pw.toml"
-hash = "b159cca54a91c9ff422c8c28106a151a827a53ce297b37cf5ee8f69d4a1bea6d"
+hash = "85abd48730878a39358bbe2668c2d3864a634a35442e5812b4dfe0d9907aa7d5"
 metafile = true
 
 [[files]]
 file = "mods/kaleidoscopedoll-1.4.2-neoforge_mc1.21.1.pw.toml"
-hash = "1a44fd7bc74d0e1586878851e2a4e1d6b6b3abad267d0b019af7f9339d805f50"
+hash = "f7a73b66c43fb6b46d479b2c8059d069469b8a351167c8f46aa5889a5a3614cd"
 metafile = true
 
 [[files]]
 file = "mods/kaleidoscopetavern-1.2.0-neoforge_mc1.21.1.pw.toml"
-hash = "e280fe133b30f1deee1fb1ca365f3872c9bf0ae798aa90500937ba18c500d18d"
+hash = "d3249deca2730be6d7816ee2392806019cf8d5651f5f5edcbc73b578f32c5f69"
 metafile = true
 
 [[files]]
@@ -548,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib-neoforge-1.10.0_1.21.1.pw.toml"
-hash = "74cde9d3d08dfc3069609c1dfcf74b8ef7a5ee16f860f2466d957e52ceb5fb86"
+hash = "48e36fa84a9fbfa7f2ffc1cb346abff93c24e0f6bccc9c936ca6c25de634916c"
 metafile = true
 
 [[files]]
@@ -568,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/OctoLib-NEOFORGE-0.6.3.2_1.21.pw.toml"
-hash = "c2c760f810158a93dbbf82d5fdcccc3913d0e081dc1676a4748eccb282d0d2aa"
+hash = "ff83d29528d0519142ac17855b5a52012aa68d6f16560bf44b1f1c73a0abba41"
 metafile = true
 
 [[files]]
@@ -623,11 +695,11 @@ metafile = true
 
 [[files]]
 file = "mods/smpphone-0.1.0.jar"
-hash = "1f92e0de0e510c7fa8166dfd4f1b58b38817db1dd636102aa42b53a535e31067"
+hash = "17b37f11f131468a736e159a50feec4d9b56e48d219d7d475182004a9200a910"
 
 [[files]]
 file = "mods/sodium-neoforge-0.8.13_mc1.21.1.pw.toml"
-hash = "ca085563b7c593cc8be27adcd84b172ea0f975ffa0e47aacb0ae26b00919e1bf"
+hash = "f85b88f59d0cd54c20f0eb04f19733127793cad5256b273296032a92a3f100aa"
 metafile = true
 
 [[files]]
@@ -652,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/txnilib-neoforge-1.0.24-1.21.1.pw.toml"
-hash = "d9943504b0e25a37b125f4efba47797043c3b7c43847ee2d36058fb0892ffaea"
+hash = "42b8a000f2e2a0e1b48aac674d7ba1059a860c25d3abe213a1834aebb521de4f"
 metafile = true
 
 [[files]]
@@ -662,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/visualoverhaul-neoforge-5.2.1.pw.toml"
-hash = "aa7457306ae314335642c0622d87dc01ba587ed263cacba8e403e7cd22e7a462"
+hash = "f170f5da69e312f1e8c4895cc800b395b46beb95613128a6987b2b6b494c8a41"
 metafile = true
 
 [[files]]

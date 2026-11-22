@@ -336,6 +336,11 @@ hash = "c170dbd631378e06964b16a70699f149af5a71f2a19407252113dbef488cd4bb"
 metafile = true
 
 [[files]]
+file = "mods/beautify-neoforge-1.21.1-2.0.2.pw.toml"
+hash = "cc95932262fee7016b33fba2abf8dd938b3fa23f12c532c2207382de858034c5"
+metafile = true
+
+[[files]]
 file = "mods/BOMD-NeoForge-1.21-1.3.3.pw.toml"
 hash = "7432acc09c0b1e4488879308d6e32de56343bb63ce8224f44839ee99c2e5cb27"
 metafile = true
@@ -386,6 +391,11 @@ hash = "f515dd512d200f370621bdfee869fc2fe6ed4a867ce3c4e0b7f4d1a86d3eab44"
 metafile = true
 
 [[files]]
+file = "mods/display_case-neoforge-1.21.1-1.2.pw.toml"
+hash = "e035bbfee36ec0174df5565e356fb92e13bc776865dabffe00d7a1210b7dd6f0"
+metafile = true
+
+[[files]]
 file = "mods/DungeonCrawl-NeoForge-1.21-2.3.17.pw.toml"
 hash = "e970b2bca5268bc68146e4db676d6c926316f48306e0b74d12ab51153bee0f74"
 metafile = true
@@ -407,6 +417,11 @@ hash = "3516154552f20c560dcda2e2c38df9774d9165b82289921c285869c715bc24ac"
 [[files]]
 file = "mods/extrasounds-1.5.6_1.21.1-neoforge.pw.toml"
 hash = "668ca3d5067a309ff565e31e7f236d9d0fe4cd32c55225941e83d53755e648b7"
+metafile = true
+
+[[files]]
+file = "mods/fantasy-armor-1.3.1-1.21.1-neoforge.pw.toml"
+hash = "f2b1501ece4aa0fe05c05d8d5e5871cacf8230f35d68ae12605585f6eacd9998"
 metafile = true
 
 [[files]]
@@ -444,6 +459,16 @@ hash = "8560d99ee98b63c613d15c1f81a8e5433ec5139072e2a4c253f813c534eaf57d"
 metafile = true
 
 [[files]]
+file = "mods/immersive_furniture-neoforge-0.4.1_1.21.1.pw.toml"
+hash = "2b5768fddba3e5dd0700fb98d1ca1f4f7e24ee783007cc749f2aae8b6051c11f"
+metafile = true
+
+[[files]]
+file = "mods/immersive_machinery-0.2.3_1.21.1-neoforge.pw.toml"
+hash = "f51ab606a9e51e1bc1177b4c074a0d800b48ecdfc4a6ec9edea65c973dcfcc48"
+metafile = true
+
+[[files]]
 file = "mods/immersivearmorhud-neoforge-1.0.1-1.21.1.pw.toml"
 hash = "cb3ebba2838627af41aa64323a2c5ce6981e4f6960f605ab77c4b8366ca6843b"
 metafile = true
@@ -466,6 +491,31 @@ metafile = true
 [[files]]
 file = "mods/jupiter-2.3.7-1.21.1-neoforge.pw.toml"
 hash = "9e552d17d1680a8d84210795b4e83655f69c129023aeaf6f6300fbce791d14b6"
+metafile = true
+
+[[files]]
+file = "mods/kaleidoscope_chinesefood-1.2.0-neoforge_1.21.1.pw.toml"
+hash = "36753a66cb14f6ce77f75dcb4818109fbc4987a34be178dac8578a5330f462c0"
+metafile = true
+
+[[files]]
+file = "mods/kaleidoscope_world_liquor-1.2.0-neoforge_1.21.1.pw.toml"
+hash = "160e5d4eb7726e087268c5fc351ac25321bd81019bdd8d295c0eeec44da41fc2"
+metafile = true
+
+[[files]]
+file = "mods/kaleidoscopecookery-1.6.0-neoforge_mc1.21.1.pw.toml"
+hash = "b159cca54a91c9ff422c8c28106a151a827a53ce297b37cf5ee8f69d4a1bea6d"
+metafile = true
+
+[[files]]
+file = "mods/kaleidoscopedoll-1.4.2-neoforge_mc1.21.1.pw.toml"
+hash = "1a44fd7bc74d0e1586878851e2a4e1d6b6b3abad267d0b019af7f9339d805f50"
+metafile = true
+
+[[files]]
+file = "mods/kaleidoscopetavern-1.2.0-neoforge_mc1.21.1.pw.toml"
+hash = "e280fe133b30f1deee1fb1ca365f3872c9bf0ae798aa90500937ba18c500d18d"
 metafile = true
 
 [[files]]
@@ -494,6 +544,11 @@ hash = "4d8028c8392b1a65f4e3af9bfec4d081bea3ba8785b63597a9a5c17e088f7f35"
 [[files]]
 file = "mods/mcw-furniture-3.4.1-mc1.21.1neoforge.pw.toml"
 hash = "696fb13b72e703dd49694b01df10dba5343c46396c818ab856a34b1ff06288b5"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib-neoforge-1.10.0_1.21.1.pw.toml"
+hash = "74cde9d3d08dfc3069609c1dfcf74b8ef7a5ee16f860f2466d957e52ceb5fb86"
 metafile = true
 
 [[files]]
@@ -568,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/smpphone-0.1.0.jar"
-hash = "1adf91cfff32ab2ab80ec0d82b68df35af2df2945bf047d7ee9d49f432d2c577"
+hash = "1f92e0de0e510c7fa8166dfd4f1b58b38817db1dd636102aa42b53a535e31067"
 
 [[files]]
 file = "mods/sodium-neoforge-0.8.13_mc1.21.1.pw.toml"
@@ -603,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/uranus-2.4.1-1.21.1-neoforge.pw.toml"
 hash = "7987adea72c1c6c3265dc94314b83c5f00ebf76a35eb5ce350d0865ad7300385"
+metafile = true
+
+[[files]]
+file = "mods/visualoverhaul-neoforge-5.2.1.pw.toml"
+hash = "aa7457306ae314335642c0622d87dc01ba587ed263cacba8e403e7cd22e7a462"
 metafile = true
 
 [[files]]

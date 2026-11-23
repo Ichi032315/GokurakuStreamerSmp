@@ -166,7 +166,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "0249f9a303f722f4d3a785eea098d08566d1b3beb32311217bf097c1bdcc5237"
+hash = "7895e5cd158f75558d2c7817eab4b3f5af869efb2189fe48a10ce5304d059a32"
 
 [[files]]
 file = "config/iteminteractions-client.toml"
@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/smpphone-0.1.0.jar"
-hash = "78cd6fe8c87ddaa6bffa44e38e64f1975fa52ed906b997d356bcd2026a15a709"
+hash = "152a4c78ba5d5174e53822bd08519b9e513b5a5bba1d0db8b70bccf5e309869b"
 
 [[files]]
 file = "mods/sodium-neoforge-0.8.13_mc1.21.1.pw.toml"
@@ -781,6 +781,11 @@ metafile = true
 file = "mods/yo_hooks-5.2.1.pw.toml"
 hash = "83b670b9f0543b66b64d0eb01e83051be9012adaa4d932c27d823010921924e9"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "3815ee0884316a8bc910bfcaac8cca3179371eb77068b372e9e22a8c2563f969"
+preserve = true
 
 [[files]]
 file = "packwiz-installer-bootstrap.jar"

@@ -1,12 +1,12 @@
 name = "StreamerSMP2"
 author = "Gokuraku"
-version = "2026.11.23-1123"
+version = "2026.11.23-1131"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "63465a1ccf28661b149845c00a2d8598f6966ff577a0fe4f8a5e2bf419d21847"
+hash = "be962ad8606f4c89cc6410e87b79d584782bcc83cc9c5f73ce095344fa1a67c2"
 
 [versions]
 minecraft = "1.21.1"

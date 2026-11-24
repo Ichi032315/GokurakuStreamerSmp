@@ -166,7 +166,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "8a73d31bd9d1e6bf7cbcab7032f5f02598caaa1f7ca4fa5eb67d13ad25e3987e"
+hash = "ff7e900b023bb2259665a3085f4206f5496912c8435a3e7b60cfe13d5f422369"
 
 [[files]]
 file = "config/iteminteractions-client.toml"
@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/smpphone-0.1.0.jar"
-hash = "cbfdc46fae18884676136fcb39255868bcf04f4954f51700e4ad0e8a040968bb"
+hash = "75d3cf27399af48f09a12c7046eda294475c2552387ba52519c93a986d807090"
 
 [[files]]
 file = "mods/sodium-neoforge-0.8.13_mc1.21.1.pw.toml"

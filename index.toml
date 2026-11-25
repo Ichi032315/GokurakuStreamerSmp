@@ -306,7 +306,7 @@ hash = "3f05a62ecf2b307ec62e5bf24f645121685bde1bb8ceae1c0fc375a121dac8c8"
 
 [[files]]
 file = "config/trmt.json"
-hash = "dc616de5844f627b0196f517f4ba92a9a4866a9c2d84a9ca97f4291aa90ac731"
+hash = "aa826d1da9548b6fb76ec073eb18e8ac1d200f0a21d37d2137e3a5a1622c5dc4"
 
 [[files]]
 file = "config/visualoverhaul.json"
@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/smpphone-0.1.0.jar"
-hash = "13e95affdfa52f975b1b90d8f3a594d84e3f9f67ce667740bd24db7a1d0a38d8"
+hash = "aabc7bb97907bb3c2b50efdc7eff42c9d3c8b38a881936a5bd5f860903f9e1a1"
 
 [[files]]
 file = "mods/sodium-neoforge-0.8.13_mc1.21.1.pw.toml"

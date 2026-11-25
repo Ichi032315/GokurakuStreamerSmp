@@ -3,7 +3,7 @@
     "grassEnabled": true,
     "dirtEnabled": true,
     "sandEnabled": true,
-    "leavesEnabled": true,
+    "leavesEnabled": false,
     "vegetationEnabled": true
   },
   "deErosion": {

@@ -166,7 +166,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "1ab6c6f9a20651eb52a94f780e1a747b23c0cbf63b28d23ea3690ab8c8371e3b"
+hash = "76d6983a245d91cbc542ac9a4550b8737d6ea140a6ffd257ab03b420a3866a14"
 
 [[files]]
 file = "config/iteminteractions-client.toml"
@@ -249,6 +249,10 @@ file = "config/Prefab.json"
 hash = "429ff5c0df81bc847bc3a7ef24625862517f71fc32e72b0e6affb12f1ebbff03"
 
 [[files]]
+file = "config/roadster/vehicle-physics.json"
+hash = "cd4d99071bdac465e410d5aa1e94a0b156fd415a47d251d98a93ec57ba07c060"
+
+[[files]]
 file = "config/rrls.toml"
 hash = "50aa30a1d8c6d5c07552b639a63169d7dc34936d84bd8b97af80e0083e851b9d"
 
@@ -282,7 +286,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "79afd7890f4a1c057f5d4e3041219bffd4a72b1a90208833ea5d3ad91093f9ba"
+hash = "37ad4aa4943135a57f9372703afc22682937cd6a9079cd7203560515dd8d1c56"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -629,6 +633,10 @@ hash = "579f58e819d976ac19838dea892fd24ef91fc513de23d8003e6f6328d3d2cb57"
 metafile = true
 
 [[files]]
+file = "mods/MineTesla-2.5.4.jar"
+hash = "0b586d0da6b7ac33e9d8795f2f5c7da736a849a2d68e2e72d06eb6950cb8d655"
+
+[[files]]
 file = "mods/more_armor-1.1.0-beta.pw.toml"
 hash = "bae88fa24ebddc9328baf4404d462c7105881c10961ca383085aaab67b7f1580"
 metafile = true
@@ -679,6 +687,10 @@ hash = "46370119f059c83e254cdf04bf2c2e1993a2dbe01ae4f754e5317d58cbfeadd8"
 metafile = true
 
 [[files]]
+file = "mods/roadster-studio-1.0.0-neoforge-1.21.1.jar"
+hash = "a049a4f75b27ca59bc483ff362a50acd4354dee930709551c1a6c38273d6c9f2"
+
+[[files]]
 file = "mods/RPG_Style_More_Weapons_R_1.0.3_NeoForge_1.21.1.pw.toml"
 hash = "a08d7e8b493210d9b3521b01b04ad3af818c4cd6ab650c502644a36e7fa0510e"
 metafile = true
@@ -726,6 +738,10 @@ metafile = true
 file = "mods/txnilib-neoforge-1.0.24-1.21.1.pw.toml"
 hash = "42b8a000f2e2a0e1b48aac674d7ba1059a860c25d3abe213a1834aebb521de4f"
 metafile = true
+
+[[files]]
+file = "mods/ultimatevehicles-0.1.0.jar"
+hash = "9aaef34b722652f680b263217ea2584158d8c1198e0a5ca1927c84328442668e"
 
 [[files]]
 file = "mods/uranus-2.4.1-1.21.1-neoforge.pw.toml"

@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/smpphone-0.1.0.jar"
-hash = "aabc7bb97907bb3c2b50efdc7eff42c9d3c8b38a881936a5bd5f860903f9e1a1"
+hash = "1c9886b25a2dc91abbc27e250eb76de733c520b0117259380d9bfc4e57791486"
 
 [[files]]
 file = "mods/sodium-neoforge-0.8.13_mc1.21.1.pw.toml"

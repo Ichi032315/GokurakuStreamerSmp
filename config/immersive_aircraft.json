@@ -12,7 +12,7 @@
   "useThirdPersonByDefault": true,
   "enableTrails": true,
   "renderDistance": 192.0,
-  "fuelConsumption": 1.0,
+  "fuelConsumption": 0.0,
   "windClearWeather": 1.0,
   "windRainWeather": 3.0,
   "windThunderWeather": 3.0,

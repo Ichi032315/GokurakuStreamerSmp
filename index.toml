@@ -142,7 +142,7 @@ hash = "a520e5e7909c9e50d1857874f853e6fafff8ac106fabff239868d5c57a57b546"
 
 [[files]]
 file = "config/immersive_aircraft.json"
-hash = "ce7819f03ea9c5d1a24507e26d6b0cf21d9a0d33a4bdf7aba2f19d5d54051124"
+hash = "cc5d40885215474418d3b8467b33e5453d1464aa3cd422a748056f9375fc92b7"
 
 [[files]]
 file = "config/immersive_furniture.json"
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/smpphone-0.1.0.jar"
-hash = "5de68c42bfa0afe387565f18bb69d7d2cfc37c05ac6f82e50914b5f4d5b79610"
+hash = "ae0f0a4c7e36e711da987dfd8200e78622096023dcd34b5f07135c13d4705310"
 
 [[files]]
 file = "mods/sodium-neoforge-0.8.13_mc1.21.1.pw.toml"
